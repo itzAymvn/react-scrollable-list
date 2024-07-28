@@ -1,6 +1,6 @@
 {
 	"name": "@aymvn/react-scrollable-list",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "A scrollable list component that supports infinite scrolling.",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
