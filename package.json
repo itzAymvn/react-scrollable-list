@@ -1,0 +1,23 @@
+{
+	"name": "@aymvn/react-scrollable-list",
+	"version": "0.0.2",
+	"description": "A scrollable list component that supports infinite scrolling.",
+	"main": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+	"scripts": {
+		"build": "tsup",
+		"lint": "tsc"
+	},
+	"author": "Aymvn",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^18.3.3",
+		"@types/react-dom": "^18.3.0",
+		"tsup": "^8.2.3",
+		"typescript": "^5.5.4"
+	},
+	"peerDependencies": {
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1"
+	}
+}
