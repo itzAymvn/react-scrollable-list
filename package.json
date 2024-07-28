@@ -4,6 +4,10 @@
 	"description": "A scrollable list component that supports infinite scrolling.",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/itzAymvn/react-scrollable-list"
+	},
 	"scripts": {
 		"build": "tsup",
 		"lint": "tsc"
